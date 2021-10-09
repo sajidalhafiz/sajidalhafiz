@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajid Abdullah</h1>
-<h3 align="center">A 2nd year graduate student studying computer science & engineering at Leading University.</h3>
+<h3 align="center">A 2nd year undergraduate student. Studying computer science & engineering at Leading University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tryit-100&label=Profile%20views&color=0e75b6&style=flat" alt="tryit-100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tryit-100" alt="tryit-100" /></a> </p>
 
 - 🔭 I’m currently working on **a java desktop application**
 
@@ -11,7 +9,7 @@
 
 - 💬 Ask me about **C, C++, HTML, CSS, JavaScript, TypeScript**
 
-- 📫 How to reach me **safwan.std21@gmail.com**
+- 📫 You can reach me **safwan.std21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
