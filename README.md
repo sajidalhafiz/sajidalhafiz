@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajid Abdullah AL-hafiz</h1>
-<h3 align="center">Second year student, completing B.Sc.(hons.) on Computer Science & Engineering at Leading University, Sylhet, Bangladesh..</h3>
+<h3 align="center">Third year student, completing B.Sc.(hons.) on Computer Science & Engineering at Leading University, Sylhet, Bangladesh..</h3>
 <br>
 
 - 🔭 I’m currently working on **a java desktop application**
